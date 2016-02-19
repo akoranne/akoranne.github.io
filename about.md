@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We at Sarkkom, provide solutions to help run your IT efficiently.
+
+### Ajay Koranne
+Ajay has over 25 years of enterprise software development experience. He has helped multiple small, medium, and large companies achieve their IT solutions.
 
 ### More Information
 
